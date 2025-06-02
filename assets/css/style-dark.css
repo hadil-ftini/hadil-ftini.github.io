@@ -204,7 +204,7 @@ position: relative;
 	transition: all 0.5s ease 0s;
 }
 @media only screen and (max-width:480px) { 
-.bg-faded {background:#2ca46d;}
+.bg-faded {background:#717775;}
 }
 .navbar-fixed {
     z-index: 999;
